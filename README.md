@@ -1,6 +1,6 @@
 # smart-pantry-privacy
 
-นี่คือข้อความจากโค้ด HTML ที่คุณแนบมา โดยจัดรูปแบบให้อ่านง่ายขึ้นครับ:
+
 
 Privacy Policy
 
